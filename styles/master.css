@@ -21,6 +21,10 @@ body {
 	width: 200px;
 	margin-left: 85px;
 }
+
+#pic h3{
+	margin-left: 120px;
+}
 #pic h4 {
 	margin-left: 125px;
 }
@@ -62,4 +66,13 @@ body {
 
 #education p {
 	margin-left: 120px;
+}
+
+#skills {
+	margin-top: 75px;
+	margin-left: 350px;
+}
+
+#skills h1 {
+	margin-left: 30px;
 }
