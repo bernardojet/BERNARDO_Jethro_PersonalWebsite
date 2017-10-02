@@ -1,29 +1,48 @@
 body { 
-  background: url(../images/up.jpg) no-repeat center center fixed; 
-  background-size: 40%;
+  background: url(../images/up1.jpg) no-repeat center center fixed; 
+  background-size: 10%;
   height: 750px;
+  margin: 0;
+}
+#nav {
+	position: fixed;
+ top:0;
+ right: 0;
+ left: 0;
+ z-index: 1030;
+	width: 100%;
+	background: #800000;
+	height: 50px;
 }
 
 #pic img{
 	border-radius: 50%;
 	height: 200px;
 	width: 200px;
-	margin-top: 20px;
-	margin-left: 575px;
+	margin-left: 85px;
 }
-
+#pic h4 {
+	margin-left: 125px;
+}
 #pic p{
-	color: white;
-	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
+	margin-left: 90px;
 }
 
-#pic hr {
-	width: 500px;
+#about {
+	margin-top: 75px;
+	margin-left: 350px;
+}
+
+#about h1 {
+	margin-left: 50px;
 }
 
 #about p {
-	margin-left: 250px;
-	
+	margin-left: 80px;
+	margin-right: 80px;
+	text-align: justify;
+}
+
+#about hr {
+	width: 900px;
 }
