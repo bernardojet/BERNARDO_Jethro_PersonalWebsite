@@ -4,4 +4,12 @@ body {
   margin: 0;
 }
 
+#pic img{
+	border-radius: 50%;
+	height: 250px;
+	width: 250px;
+	margin-top: 50px;
+	margin-left: 550px;
+}
+
 
