@@ -34,7 +34,7 @@ body {
 }
 
 #about h1 {
-	margin-left: 50px;
+	margin-left: 30px;
 }
 
 #about p {
@@ -45,4 +45,21 @@ body {
 
 #about hr {
 	width: 900px;
+}
+
+#education {
+	margin-top: 75px;
+	margin-left: 350px;
+}
+
+#education h1 {
+	margin-left: 30px;
+}
+
+#education h3 {
+	margin-left: 80px;
+}
+
+#education p {
+	margin-left: 120px;
 }
