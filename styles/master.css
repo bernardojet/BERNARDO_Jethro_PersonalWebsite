@@ -12,7 +12,7 @@ body {
 	left: 0;
 	z-index: 1030;
 	width: 100%;
-	background: #800000;
+	background: #317873;
 	height: 50px;
 }
 
@@ -24,10 +24,12 @@ body {
 }
 
 #pic h3{
+	color: #a3c1ad;
 	margin-left: 120px;
 }
 
 #pic p{
+	color: #a3c1ad;
 	margin-left: 90px;
 }
 
@@ -38,7 +40,7 @@ body {
 
 #about h1 {
 	margin-left: 30px;
-	color: #005c00;
+	color: #a3c1ad;
 }
 
 #about p {
@@ -46,7 +48,7 @@ body {
 	margin-left: 80px;
 	margin-right: 80px;
 	text-align: justify;
-	color: #df9406;
+	color: #49796b;
 }
 
 #education {
@@ -63,18 +65,18 @@ body {
 
 #education h1 {
 	margin-left: 30px;
-	color: #005c00;
+	color: #a3c1ad;
 }
 
 #education h3 {
 	margin-left: 190px;
 	margin-top: 80px;
-	color: #005c00;
+	color: #a0d6b4;
 }
 
 #education p {
 	margin-left: 210px;
-	color: #df9406;
+	color: #49796b;
 }
 
 #qualifications {
@@ -84,19 +86,19 @@ body {
 
 #qualifications h1 {
 	margin-left: 30px;
-	color: #005c00;
+	color: #a0d6b4;
 }
 
 #qualifications p {
 	margin-left: 190px;
 	margin-top: 80px;
-	color: #727472;
+	color: #49796b;
 }
 
 #skillss h1 {
 	margin-top: 75px;
 	margin-left: 380px;
-	color: #005c00;
+	color: #a0d6b4;
 }
 
 .skills {
@@ -117,7 +119,7 @@ body {
 .skills h3 {
 	margin-left: 190px;
 	margin-top: 80px;
-	color: #727472;
+	color: #a0d6b4;
 }
 
 #portfolio {
@@ -127,5 +129,5 @@ body {
 
 #portfolio h1 {
 	margin-left: 30px;
-	color: #005c00;
+	color: #a0d6b4;
 }
