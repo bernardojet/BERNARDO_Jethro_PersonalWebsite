@@ -1,6 +1,6 @@
 body { 
   background: url(../images/up1.jpg) no-repeat center center fixed; 
-  background-size: 10%;
+  background-size: 15%;
   height: 750px;
   margin: 0;
 }
@@ -40,6 +40,7 @@ body {
 }
 
 #about p {
+	margin-top: 30px;
 	margin-left: 80px;
 	margin-right: 80px;
 	text-align: justify;
@@ -54,6 +55,7 @@ body {
 	height: 100px;
 	margin-left: 50px;
 	position: absolute;
+	margin-top: 50px;
 }
 
 #education h1 {
@@ -62,6 +64,7 @@ body {
 
 #education h3 {
 	margin-left: 190px;
+	margin-top: 80px;
 }
 
 #education p {
@@ -75,6 +78,11 @@ body {
 
 #qualifications h1 {
 	margin-left: 30px;
+}
+
+#qualifications h3 {
+	margin-left: 190px;
+	margin-top: 80px;
 }
 
 #skillss h1 {
