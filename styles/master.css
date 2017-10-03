@@ -3,6 +3,7 @@ body {
   background-size: 15%;
   height: 750px;
   margin: 0;
+  font-family: 'Cabin', sans-serif;
 }
 #nav {
 	position: fixed;
@@ -80,7 +81,7 @@ body {
 	margin-left: 30px;
 }
 
-#qualifications h3 {
+#qualifications p {
 	margin-left: 190px;
 	margin-top: 80px;
 }
