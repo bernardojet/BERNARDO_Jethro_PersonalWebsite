@@ -56,7 +56,6 @@ body {
 
 #education img {
 	height: 100px;
-	width: 100px;
 	margin-left: 50px;
 	position: absolute;
 }
@@ -66,11 +65,11 @@ body {
 }
 
 #education h3 {
-	margin-left: 170px;
+	margin-left: 190px;
 }
 
 #education p {
-	margin-left: 190px;
+	margin-left: 210px;
 }
 
 #skills {
