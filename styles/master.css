@@ -77,8 +77,9 @@ body {
 
 .skills img {
 	height: 100px;
-	margin-left: 50px;
 	position: absolute;
+	margin-left: 50px;
+	margin-top: 40px;
 }
 
 #skillss h1 {
@@ -88,16 +89,9 @@ body {
 
 .skills h3 {
 	margin-left: 190px;
-	
+	margin-top: 80px;
 }
 
-.skills div:nth-child(even) {
-	background-color: red;
-}
-
-.skills div:nth-child(odd) {
-	background-color: green;
-}
 
 #achievements {
 	margin-top: 75px;
