@@ -1,8 +1,5 @@
 body { 
-  background: url(../images/bg1.png) no-repeat center center fixed; 
-  background-size: cover;
-  height: 750px;
-  margin: 0;
+  background: #373b43;
   font-family: 'Cabin', sans-serif;
 }
 
