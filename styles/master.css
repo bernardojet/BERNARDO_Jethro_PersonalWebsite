@@ -5,6 +5,19 @@ body {
   margin: 0;
   font-family: 'Cabin', sans-serif;
 }
+
+footer {
+	width: 100%;
+	height: 20px;
+	background: white;
+}
+
+#foot {
+	margin-right: 50px;
+	float: right;
+}
+
+
 #nav {
 	position: fixed;
 	top:0;
@@ -26,6 +39,7 @@ body {
 #pic h3{
 	color: #a3c1ad;
 	margin-left: 120px;
+	padding: 60px 0px;
 }
 
 #pic p{
