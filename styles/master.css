@@ -122,12 +122,20 @@ body {
 	color: #a0d6b4;
 }
 
-#portfolio {
+#portf h1 {
 	margin-top: 75px;
-	margin-left: 350px;
+	margin-left: 380px;
+	color: #a0d6b4;
 }
 
-#portfolio h1 {
-	margin-left: 30px;
-	color: #a0d6b4;
+.portfolio {
+	margin-left: 350px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.portfolio img {
+	height: 300px;
+	margin-left: 50px;
+	margin-top: 50px;
 }
